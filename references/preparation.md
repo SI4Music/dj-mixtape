@@ -8,4 +8,6 @@ Estimate tempo from active audio; half/double-time labels can be equivalent. A p
 
 Find phrase boundaries around intros/hooks/breaks/outros; trim video-only silence and avoid starting mid-word. Where direct listening is unavailable, label cue predictions honestly. Use short separation probes only for concrete blend decisions; full-track separation is unnecessary for a cut. Do not normalize separated stems independently.
 
+Inspect several complete vocal statements when the first drum cue has unsuitable delivery. Voice projection, articulation, density and swing can change across one recording; see [vocal-interludes.md](vocal-interludes.md) for selection and bounded descriptors.
+
 Reference: [Serato beatgrids](https://support.serato.com/hc/en-us/articles/360001274936-Beatgrids).

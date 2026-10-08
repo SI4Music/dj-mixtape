@@ -9,7 +9,7 @@ The set can be defined by a **track count** or an explicit duration. For a count
 Clone into the Codex skills directory on a machine where `dj-mixtape` is not already installed:
 
 ```sh
-gh repo clone toreleon/dj-mixtape ~/.codex/skills/dj-mixtape
+gh repo clone SI4Music/dj-mixtape ~/.codex/skills/dj-mixtape
 ```
 
 Alternatively, clone the repository elsewhere and copy the directory containing `SKILL.md` into your Codex skills directory. For a custom `CODEX_HOME`, use its `skills/` directory. Reload skill discovery or start a new Codex session as needed.
@@ -77,3 +77,5 @@ The workflow checks selected clip frame counts, actual output duration, finite s
 Beat, key, cue and separated-stem observations are estimates. Musical phrasing, vocal coherence and momentum require listening assessment; a technical PASS is not a listening approval. [Transition thinking](references/transition-thinking.md) records source-grounded ideas from DJ Jazzy Jeff, Craze, A-Trak, Laidback Luke and other practitioners, with attribution limits.
 
 This repository contains reusable instructions, code and player assets. Mix projects, downloaded recordings, model caches and generated media belong in separate project directories.
+
+For vocal-heavy handoffs, read [Vocal selection and interludes](references/vocal-interludes.md). The optional `scripts/vocal_audit.py` helper describes aligned vocal estimates for audition; it does not separate stems or assign singer energy scores. Keep music, probes and listening results outside this repository.

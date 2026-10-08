@@ -20,11 +20,14 @@ Use six modules, reading the linked detail as needed:
 5. [Timeline construction](references/construction.md): create individual media items, automation, cue markers and source routing.
 6. [Quality and delivery](references/quality.md): inspect the actual candidate's audio, source resolution and playback with current hashes.
 
+For vocal-heavy sets, forced drops or singer energy changes, read [Vocal selection and interludes](references/vocal-interludes.md). Select complete vocal statements and design the delivery trajectory as well as the beat/phrase handoff.
+
 ## Reusable helpers
 
 - `scripts/intake.py discover --queries QUERY_JSON --output CANDIDATES_JSON --yt-dlp PATH`: bounded YouTube search returning candidates for selection, not automatic verification of official status.
 - `scripts/intake.py download --catalog CATALOG_JSON --root PROJECT_DIR --yt-dlp PATH`: downloads selected URLs, decodes stereo WAV using the actual delivery extension and writes sanitized provenance.
 - `scripts/analyze.py --root PROJECT_DIR`: analyzes source WAVs. Requires NumPy, soundfile and librosa; Beat This is optional. Predictions are not verified cues.
+- `scripts/vocal_audit.py --vocal VOCAL_WAV --reference ALIGNED_ORIGINAL_WAV --duration SECONDS --output JSON`: describes bounded aligned vocal estimates for audition; requires NumPy, soundfile and SciPy. Does not infer emotion or musical energy.
 - `scripts/render.py --plan PLAN_JSON --root PROJECT_DIR`: constructs prepared clips, transition envelopes, effect layers and a streaming mix with FFmpeg; exports an editable REAPER audio project and explicit plan. Requires NumPy, soundfile and SciPy.
 - `scripts/verify.py --plan PLAN_JSON --root PROJECT_DIR`: checks actual audio, creates a listening export and timestamped tracklist. Requires NumPy and soundfile.
 - `assets/player/`: streaming player template using one media element, not full-length decoded stems.
