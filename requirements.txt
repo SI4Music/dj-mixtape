@@ -1,0 +1,6 @@
+# Versions used by the native MusicX DJ mix workflow (Python 3.12).
+numpy==2.5.3
+scipy==1.18.1
+soundfile==0.13.1
+librosa==0.11.0
+yt-dlp==2026.8.19

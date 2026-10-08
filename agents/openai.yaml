@@ -1,0 +1,4 @@
+interface:
+  display_name: "DJ Mixtape"
+  short_description: "Build continuous DJ mixes with editable projects"
+  default_prompt: "Use $dj-mixtape to build a continuous DJ mix with source provenance, designed transitions and an editable REAPER project."
