@@ -20,6 +20,8 @@ Use six modules, reading the linked detail as needed:
 5. [Timeline construction](references/construction.md): create individual media items, automation, cue markers and source routing.
 6. [Quality and delivery](references/quality.md): inspect the actual candidate's audio, source resolution and playback with current hashes.
 
+For an abrupt loss of synth, pad, motif or spatial decay despite steady beat/level, read [Texture continuity](references/texture-continuity.md). Review sound identity and the transfer of attention, not only spectral energy.
+
 For vocal-heavy sets, forced drops or singer energy changes, read [Vocal selection and interludes](references/vocal-interludes.md). Select complete vocal statements and design the delivery trajectory as well as the beat/phrase handoff.
 
 ## Reusable helpers

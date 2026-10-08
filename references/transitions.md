@@ -2,6 +2,8 @@
 
 Start with [transition-thinking.md](transition-thinking.md) when designing musical flow or diagnosing lost momentum. Define the entry, preparation and payoff for each pair before selecting an effect.
 
+For an unresolved synth/pad/motif or abrupt loss of space, use [texture-continuity.md](texture-continuity.md). Give the outgoing sound an ending and the incoming sound an introduction; equivalent band energy is not continuity of identity.
+
 For a mismatch in singer/rapper delivery, use [vocal-interludes.md](vocal-interludes.md). Beat continuity alone does not preserve vocal intensity. An interlude needs a lead trajectory, a groove role and a specific incoming statement.
 
 Decide per adjacency: phrase cut, short drum blend, filtered loop bridge, echo-out into a new downbeat, or half/double-time switch. Scratching is optional; do not call a simple sound effect a genuine scratch routine.
