@@ -79,3 +79,5 @@ Beat, key, cue and separated-stem observations are estimates. Musical phrasing, 
 This repository contains reusable instructions, code and player assets. Mix projects, downloaded recordings, model caches and generated media belong in separate project directories.
 
 For vocal-heavy handoffs, read [Vocal selection and interludes](references/vocal-interludes.md). The optional `scripts/vocal_audit.py` helper describes aligned vocal estimates for audition; it does not separate stems or assign singer energy scores. Keep music, probes and listening results outside this repository.
+
+For expressive DJ arrangement, read [Musical arrangement](references/musical-arrangement.md): section selection, continuous melodic introductions, tone-play proposals, cue juggling, pulse reinterpretation and contextual FX, with explicit transcription and listening limits.

@@ -22,6 +22,8 @@ Use six modules, reading the linked detail as needed:
 
 For an abrupt loss of synth, pad, motif or spatial decay despite steady beat/level, read [Texture continuity](references/texture-continuity.md). Review sound identity and the transfer of attention, not only spectral energy.
 
+For disconnected melodies, decorative FX or a request for more expressive DJ playing, read [Musical arrangement](references/musical-arrangement.md). Revisit the recording pair and sections; design a source-derived routine with a recognizable payoff.
+
 For vocal-heavy sets, forced drops or singer energy changes, read [Vocal selection and interludes](references/vocal-interludes.md). Select complete vocal statements and design the delivery trajectory as well as the beat/phrase handoff.
 
 ## Reusable helpers
