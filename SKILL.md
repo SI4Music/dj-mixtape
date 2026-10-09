@@ -24,6 +24,8 @@ For an abrupt loss of synth, pad, motif or spatial decay despite steady beat/lev
 
 For disconnected melodies, decorative FX or a request for more expressive DJ playing, read [Musical arrangement](references/musical-arrangement.md). Revisit the recording pair and sections; design a source-derived routine with a recognizable payoff.
 
+For dominant original beats or a request to mix a foundation across the entire set, read [Whole-set foundation mixing](references/foundation-mixing.md). Control full-section stems and an independent musical foundation, with phrase variation and explicit bass ownership.
+
 For vocal-heavy sets, forced drops or singer energy changes, read [Vocal selection and interludes](references/vocal-interludes.md). Select complete vocal statements and design the delivery trajectory as well as the beat/phrase handoff.
 
 ## Reusable helpers
