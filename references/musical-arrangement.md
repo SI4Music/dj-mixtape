@@ -22,7 +22,7 @@ Practitioner context: [Erol Alkan, Flava D, Butch and DJ Puffy interviewed by Pi
 
 ## Build a controllable musical proposal
 
-Separate material in its actual playback domain. If subtracting parts, use complementary, frame-aligned stems with their original joint scale; verify the reconstruction instead of independently retiming parts and assuming alignment. Retain voice, rhythm, bass, melody and performed gesture as separately editable items. Boundary-only edits may retain original masters in the body; for dominant source beats or an explicitly requested full-section foundation, use [Whole-set foundation mixing](foundation-mixing.md) instead.
+Separate bounded material in its actual playback domain. If subtracting parts, use complementary, frame-aligned stems with their original joint scale; verify the reconstruction instead of independently retiming parts and assuming alignment. Retain voice, rhythm, bass, melody and performed gesture as separately editable items around the transition. Keep the original master recordings for the rest of the set.
 
 Distinguish a continuous pickup from a repeated teaser, and an offline varispeed gesture from live scratching. Export isolated routines and enough preceding/following context to assess the payoff, alongside the complete set. When sequencing changes, label V5/V6 excerpts as arrangement comparisons; they are not a controlled A/B of one FX.
 

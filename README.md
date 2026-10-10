@@ -81,5 +81,3 @@ This repository contains reusable instructions, code and player assets. Mix proj
 For vocal-heavy handoffs, read [Vocal selection and interludes](references/vocal-interludes.md). The optional `scripts/vocal_audit.py` helper describes aligned vocal estimates for audition; it does not separate stems or assign singer energy scores. Keep music, probes and listening results outside this repository.
 
 For expressive DJ arrangement, read [Musical arrangement](references/musical-arrangement.md): section selection, continuous melodic introductions, tone-play proposals, cue juggling, pulse reinterpretation and contextual FX, with explicit transcription and listening limits.
-
-For original beats that still dominate or abrupt scene changes after boundary edits, read [Whole-set foundation mixing](references/foundation-mixing.md). This route controls full-section vocals, bass and melody over an independent drum foundation, with phrase variation, voiced-passage balance checks and explicit source-stem limits. It requires project-specific arrangement code; the generic renderer does not automatically rebuild a foundation.
